@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vietan0
 - 👀 I’m interested in web development and UI design
-- 🌱 I’m currently learning CSS & JavaScript
+- 🌱 I’m currently learning JavaScript & React
 - 📫 Reach me via my [LinkedIn](https://www.linkedin.com/in/vietan/)
 
 <!---
